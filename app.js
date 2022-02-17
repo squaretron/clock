@@ -1,3 +1,5 @@
+// JavaScript
+
 setTimeout(
   () => (document.querySelector(".clock").style.display = "block"),
   1000
